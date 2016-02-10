@@ -1,7 +1,8 @@
 body{
     font-family: "Arial";
-    background: grey;
-    color: skyblue;
+    background: lightgrey;
+    color: hotpink;
+    font-family: Times;
 }
 
 .clearfix{
@@ -33,5 +34,6 @@ ul.ponys li figure img{
 
 ul.ponys li figure figcaption {
     text-align: center;
-    font-size: 26px;
+    font-size: 30px;
+
 } 
